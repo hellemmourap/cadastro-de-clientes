@@ -1,0 +1,14 @@
+C:\Users\Ultra\OneDrive\Área de Trabalho\cadastrodeclientes\bin\Debug\net8.0\cadastrodeclientes.exe
+C:\Users\Ultra\OneDrive\Área de Trabalho\cadastrodeclientes\bin\Debug\net8.0\cadastrodeclientes.deps.json
+C:\Users\Ultra\OneDrive\Área de Trabalho\cadastrodeclientes\bin\Debug\net8.0\cadastrodeclientes.runtimeconfig.json
+C:\Users\Ultra\OneDrive\Área de Trabalho\cadastrodeclientes\bin\Debug\net8.0\cadastrodeclientes.dll
+C:\Users\Ultra\OneDrive\Área de Trabalho\cadastrodeclientes\bin\Debug\net8.0\cadastrodeclientes.pdb
+C:\Users\Ultra\OneDrive\Área de Trabalho\cadastrodeclientes\obj\Debug\net8.0\cadastrodeclientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ultra\OneDrive\Área de Trabalho\cadastrodeclientes\obj\Debug\net8.0\cadastrodeclientes.AssemblyInfoInputs.cache
+C:\Users\Ultra\OneDrive\Área de Trabalho\cadastrodeclientes\obj\Debug\net8.0\cadastrodeclientes.AssemblyInfo.cs
+C:\Users\Ultra\OneDrive\Área de Trabalho\cadastrodeclientes\obj\Debug\net8.0\cadastrodeclientes.csproj.CoreCompileInputs.cache
+C:\Users\Ultra\OneDrive\Área de Trabalho\cadastrodeclientes\obj\Debug\net8.0\cadastrodeclientes.dll
+C:\Users\Ultra\OneDrive\Área de Trabalho\cadastrodeclientes\obj\Debug\net8.0\refint\cadastrodeclientes.dll
+C:\Users\Ultra\OneDrive\Área de Trabalho\cadastrodeclientes\obj\Debug\net8.0\cadastrodeclientes.pdb
+C:\Users\Ultra\OneDrive\Área de Trabalho\cadastrodeclientes\obj\Debug\net8.0\cadastrodeclientes.genruntimeconfig.cache
+C:\Users\Ultra\OneDrive\Área de Trabalho\cadastrodeclientes\obj\Debug\net8.0\ref\cadastrodeclientes.dll
